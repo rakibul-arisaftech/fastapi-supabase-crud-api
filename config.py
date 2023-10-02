@@ -1,0 +1,2 @@
+url="https://ibucdgfgohmnfpcnoghf.supabase.co"
+api="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlidWNkZ2Znb2htbmZwY25vZ2hmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5NTc5ODY2NywiZXhwIjoyMDExMzc0NjY3fQ.MBEe7we7iXewtMPd-TNjTL805gbHNUGXIGHZsqMwd30"
